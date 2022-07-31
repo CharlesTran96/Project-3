@@ -1,6 +1,6 @@
 # E-Waredrobe
 
-![E-Waredrobe]()
+![E-Waredrobe](https://github.com/CharlesTran96/Project-3/blob/main/e-waredrobe.jpg?raw=true)
 
 ## Description
 E-Waredrobe is an app developed for those who are interested in the day to day fashion worn by the people around them.
